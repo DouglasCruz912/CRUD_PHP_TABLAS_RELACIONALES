@@ -4,10 +4,10 @@ A continuacion un crud con Laravel el framework para el lenguaje de programacion
 
 ## Reuquerimientos
 
-Xampp
-Composer
-Laravel
-node.js
+Xampp,
+Composer,
+Laravel,
+node.js,
 crear una base de datos en Xampp con el nombre laravel y ejecuta las migracianos para crear las tablas "php artisan migrate" en Xampp y asi podras navegar por el crud encendiendo el servidor "php artisan serve" y "npm run dev" ambos en ventanas de terminales distintas 
 
 
