@@ -2,7 +2,7 @@
 
 A continuacion un crud con Laravel el framework para el lenguaje de programacion php y dos tablas relacionadas
 
-## Reuquerimientos
+## Requerimientos
 
 Xampp,
 Composer,
